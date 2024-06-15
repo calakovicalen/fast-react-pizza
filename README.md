@@ -97,8 +97,8 @@ Contributions are welcome! If you have suggestions for improvements, feel free t
 
 If you have any questions or need further assistance, feel free to reach out:
 
-- **Author**: [Calakovic Alen]
-- **Email**: [calakovicalen@gmail.com]
+- **Author**: Calakovic Alen
+- **Email**: calakovicalen@gmail.com
 - **GitHub**: [https://github.com/calakovicalen](https://github.com/calakovicalen)
 
 Thank you for using Fast-React-Pizza! Happy coding!
